@@ -2,7 +2,7 @@
 In this repository, I present an application of the latest version of YOLO i.e. YOLOv5, to detect items present in a retail store shelf. This application can be used to keep track of inventory of items simply using images of the items on shelf.
 
 ![Result image](https://github.com/shayanalibhatti/Retail-Store-Item-Detection-using-YOLOv5/blob/master/results.png)
-
+ss
 ## Introduction
 Object detection is a computer vision task that requires object(s) to be detected, localized and classified. In this task, first we need our machine learning model to tell if any object of interest is present in the image. If present, then draw a bounding box around the object(s) present in the image. In the end, the model must classify the object represented by the bounding box. This task requires fast object detection so that it can be implemented  in real-time. One of its major applications is its use in real-time object detection in self-driving vehicles.
 
